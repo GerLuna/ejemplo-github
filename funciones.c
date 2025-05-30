@@ -1,11 +1,3 @@
-// Autor: Yomero
-
-#include <stdio.h>
-
-int main() {
-    printf("Hola, mundo!\n");
-}
-
 int factorial(int n) {
     if (n == 1) {
         return 1;
